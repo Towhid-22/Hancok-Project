@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.teaml {
+  clip-path: polygon(0 0, 100% 0, 88% 100%, 0% 100%);
+}
+.teamr {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 12% 100%);
+}
