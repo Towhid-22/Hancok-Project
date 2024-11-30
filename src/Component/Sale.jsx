@@ -1,7 +1,7 @@
 import React from "react";
 import HorizonZero from "../assets/HorizonZero.png";
 import HorizonDawn from "../assets/HorizonDawn.png";
-import Disciples from "../assets/Disciples.png";
+// import Disciples from "../assets/Disciples.png";
 import Industries from "../assets/industries.png";
 import SaleSlide from "../assets/sale.png";
 
